@@ -1,0 +1,1 @@
+Light Research is a small, independent research effort exploring AI agents interacting with the Solana ecosystem. Currently our focus is on improving devex in solana and testing the capability of LLMs using benchmarks.
